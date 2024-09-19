@@ -1,0 +1,2 @@
+# nowerepo
+to jest repozytorium
